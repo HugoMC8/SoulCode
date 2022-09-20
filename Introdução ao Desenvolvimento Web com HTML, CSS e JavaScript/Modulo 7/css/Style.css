@@ -1,44 +1,76 @@
 .p1 {
     background-color: tomato;
+    border-style: dotted;
 }
 .p2 {
     background-color: orange;
+    border-style: dashed;
 }
 .p3 {
     background-color: dodgerblue;
+    border-style: solid;
 }
 .p4 {
     background-color: mediumseagreen;
+    border-style: double;
 }
 .p5 {
     background-color: pink;
+    border-style: groove;
 }
 .p6 {
     background-color: red;
+    border-style: hidden;
 }
 .p7 {
     background-color: violet;
+    border-style: inset;
 }
 .p8 {
     background-color: lightgray;
+    border-style: outset;
 }
 .t1 {
     color: royalblue;
+    border-style: none;
 }
 .pr1 {
     color: greenyellow;
+    border-style: hidden;
 }
 .pr2 {
     color: pink;
+    border-style: dotted dashed solid double ;
 }
 .ts1 {
     background-color: rgb(255, 99, 71);
+    border-style: solid;
+    border-width: 5px;
 }
 
 .ts2 {
     background-color: #ff6347;
+    border-style: solid;
+    border-width: 25px 10px 4px 35px;/*superior direita inferior esquerda*/
+    border-color: violet;
 }
 
 .ts3 {
+    background-color: hsl(9, 100%, 64%);
+    border: 2px solid red ;
+}
+.ts4 {
+    background-color: rgba(255, 99, 71, 0.5);
+
+}
+.ts5 {
+    background-color: hsla(9, 100%, 64%, 0.5);
+}
+
+body {
+   /* background-color: rgb(135, 92, 205);*/
+   background-image: url(https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=height:60/https://file-uploads.teachablecdn.com/cafdd5e23ede4e52b0b3c293024bcbf1/a1de44835f9c41309464ba4c42d99284);
+    background-repeat: no-repeat;
+    background-position: right top;
 
 }

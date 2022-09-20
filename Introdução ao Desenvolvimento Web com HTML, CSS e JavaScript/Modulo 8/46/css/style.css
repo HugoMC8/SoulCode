@@ -1,0 +1,12 @@
+div {
+    border: 1px solid black;
+    /*
+    margin-top: 25px;
+    margin-right: 50px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+    */
+    /*margin: 25px 50px 75px 100px;*/
+    /*margin: 25px 50px 75px;*/
+    margin: 25px 50px;
+}
