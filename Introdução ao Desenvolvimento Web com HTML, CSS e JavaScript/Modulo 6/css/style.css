@@ -1,0 +1,19 @@
+* {
+    font-size: 50px;
+    
+}
+
+h1 {
+    color: rgb(76, 0, 255);
+}
+
+#paragrafo{
+    color: blueviolet;
+}
+
+.titulo {
+    color: brown;
+}
+h1, h2 , p {
+    color: rgb(221, 192, 255);
+}
