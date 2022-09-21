@@ -1,0 +1,23 @@
+.l1 {
+    list-style-type: circle;
+}
+
+.l2 {
+    list-style-type: square;
+}
+
+.l3 {
+    list-style-type: upper-roman;
+}
+
+.l4 {
+    list-style-type: lower-alpha;
+}
+
+.l5 {
+    list-style-position: outside;
+}
+
+.l6 {
+    list-style-position: inside;
+}

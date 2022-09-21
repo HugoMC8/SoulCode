@@ -1,0 +1,11 @@
+Crie uma página com HTML com as seguintes especificações:
+
+·      Crie um arquivo .js e link na página;
+
+·      Crie pelo menos cinco Strings para testes;
+
+·      Conte os caracteres de uma de suas Strings;
+
+·      Fatie uma de suas Strings;
+
+·      Faça um tipo de busca com sua String.

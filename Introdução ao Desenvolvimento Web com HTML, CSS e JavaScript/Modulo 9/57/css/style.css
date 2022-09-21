@@ -1,0 +1,27 @@
+.p1 {
+    text-indent: 50px;
+}
+
+.h1 {
+    letter-spacing: 10px;
+}
+
+.h2 {
+    letter-spacing: -2px;
+}
+
+.p2 {
+    line-height: 0.7;
+}
+
+.p3 {
+    line-height: 1.8;
+}
+
+.p4 {
+    word-spacing: 10px;
+}
+
+.p5 {
+    word-spacing: -2px;
+}

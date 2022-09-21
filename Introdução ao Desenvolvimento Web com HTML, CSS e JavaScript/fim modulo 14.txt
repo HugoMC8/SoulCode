@@ -1,0 +1,13 @@
+Crie uma página com HTML com as seguintes especificações:
+
+·      Crie um arquivo .js e link na página;
+
+·      Crie pelo menos cinco Arrays para teste;
+
+·       Conte a quantidade de itens do seu Array;
+
+·      Remova e adicione itens no Array;
+
+·      Ordene um de seus Arrays;
+
+·      Percorra pelo menos dois de seus Arrays com ForOf e For In.

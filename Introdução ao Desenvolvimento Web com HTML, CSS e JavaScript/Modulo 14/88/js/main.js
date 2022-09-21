@@ -1,0 +1,13 @@
+const a = ["Banana", "Maçã", "Manga"];
+console.log(a.toString());
+const b = ["Uno", "Gol", "Voyage"];
+console.log(b.join(" - "));
+const c = ["Maçã", "Manga", "Banana", "Cereja", "Uva", "Melancia"];
+c.pop();
+c.pop();
+console.log(c);
+c.push("Coco");
+console.log(c);
+c.shift();
+console.log(c);
+console.log(c.length);

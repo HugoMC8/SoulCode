@@ -1,0 +1,29 @@
+.t1 {
+    text-shadow: 2px 2px;
+}
+
+.t2 {
+    text-shadow: 2px 2px red;
+}
+
+.t3 {
+    text-shadow: 2px 2px 5px #ff0000;
+}
+
+.t4 {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.t5 {
+    text-shadow: 0 0 3px #ff0000;
+}
+
+.t6 {
+    text-shadow: 0 0 3px red, 0 0 5px red;
+}
+
+.t7 {
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+}
